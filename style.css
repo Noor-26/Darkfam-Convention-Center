@@ -63,5 +63,23 @@
     top: -8px;
     right: 0;
     margin-right: 10px;
-    
 }
+
+.f-logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.fa-apple{
+    font-size: 40px;
+    margin-right: 10px;
+}
+.icon{
+    background-color: black;
+    color: white;
+
+}
+.f-logo{
+    width: 40px;
+}
+
