@@ -4,10 +4,15 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
-.c-img{
-    width: 100%;
-    height: 554px;
+
+/* button css */
+
+.main-btn{
+    color: #3F87F5;
+    background-color: white;
 }
+
+/* toast css */
 .toast{
     width: 250px;
 }
@@ -15,26 +20,22 @@
     color: #3F87F5;
     font-size: 18px;
 }
-
-.main-btn{
-    color: #3F87F5;
-    background-color: white;
-}
 .main-btn:hover{
     background-color: #3F87F5;
     color: white;
 }
 
+/* services css */
 .s-icon{
     background-color: #3F87F5;
     color: white;
     width: 50px;
     padding-top: 13px;
-
     height: 50px;
-
     border-radius: 50%;
 }
+
+/* Packeges css */
 
 .pack-t_c{
     color:#3F87F5;
@@ -43,7 +44,6 @@
     list-style: none;
     font-size: 13px;
 }
-
 .p-icon{
     background-color: #b8afff;
     width: 20px ;
@@ -71,6 +71,8 @@
     right: 0;
     margin-right: 10px;
 }
+
+/* footer css */
 
 .f-logo{
     display: flex;
