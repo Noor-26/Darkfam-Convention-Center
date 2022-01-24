@@ -58,3 +58,10 @@
 .pack-font{
     font-family: 'Roboto', sans-serif;
 }
+.position{
+    position: absolute;
+    top: -8px;
+    right: 0;
+    margin-right: 10px;
+    
+}
